@@ -1,0 +1,14 @@
+ID,Answer,Keyword_ID
+1,"RIPv2 is a simple dynamic routing protocol.",1
+2,"EIGRP is an advanced distance-vector routing protocol.",2
+3,"OSPF is an open source link-state routing protocol.",3
+4,"BGP is the standard exterior gateway protocol for modern networks.",4
+5,"IPv4 stands for Internet Protocol version 4. IPv4 is used to route most traffic on the internet.",5
+6,"IPv6 is the sixth implementation of the Internet Protocol and is intended to replace IPv4.",6
+7,"EIGRP is technically no longer proprietary to Cisco hardware.
+While it's allowed to make an implementation for other hardware.
+No such implementation yet exists",2
+8,"Ripv1 is a classful routing protocol which have a maximum of 15 hops.",22
+9,"OSPF and IS-IS is link-state routing protocol,the basic concept is that every node builds it is own map to calculate the best path",3
+10,"IS-IS  is an old routing protocol which like OSPF every router buils it is database of the network topology",23
+13,"RIPv2 is a distance vector routing protocol ans uses hop count as metric.",1

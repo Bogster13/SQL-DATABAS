@@ -1,0 +1,8 @@
+ID,Difference,KeywordD_ID
+1,"RIPv2 is for small network and EIGRP is for large networks.  RIPv2 update every 30 sec and EIGRP only update when there is a change saving on bandwidth.",1
+2,"EIGRP is an advanced distance vector protocol and ospf is an link state protocol.",2
+3,"BGP is an exterior Gateway Routing Protocol and EIGRP is an Interior Gateway Routing Protocol.",3
+4,"BGP is an exterior Gateway Routing Protocol and OSPF is an Interior Gateway Routing Protocol.",4
+5,"BGP is an exterior Gateway Routing Protocol and RIPv2 is an Interior Gateway Routing Protocol.",5
+6,"OSPF is an link state protocol and RIPV2 is a distans vector protocol.",6
+7,"IPv4 uses an 32 bit integer to store it's values while IPv6 uses a 128 bit integer.",7

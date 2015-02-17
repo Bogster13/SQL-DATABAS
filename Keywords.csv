@@ -1,0 +1,22 @@
+ID,Keyword
+1,ripv2
+2,EIGRP
+3,OSPF
+4,BGP
+5,IPv4
+6,IPv6
+7,"EIGRP summary  route"
+10,IGRP
+11,IS-IS
+12,EGP
+13,"External EIGRP"
+14,iBGP
+15,"Floating static Route"
+16,Unknown
+17,"On Demand Routing."
+18,"Static route to next-hop address"
+19,"static route out an interface"
+20,"Directly connected interface"
+21,"Dynamic Mobile Network Routing"
+22,"Routing Information Protocol"
+23,ISIS
